@@ -1,0 +1,72 @@
+[
+  {
+    "color": "rgb(230, 0, 138)",
+    "data": [
+      524091
+    ],
+    "name": "ms-ds-smbv3"
+  },
+  {
+    "color": "rgb(46, 0, 230)",
+    "data": [
+      525060
+    ],
+    "name": "msrpc-base"
+  },
+  {
+    "color": "rgb(0, 230, 230)",
+    "data": [
+      525191
+    ],
+    "name": "ldap"
+  },
+  {
+    "color": "rgb(46, 230, 0)",
+    "data": [
+      526554
+    ],
+    "name": "kerberos"
+  },
+  {
+    "color": "rgb(230, 138, 0)",
+    "data": [
+      1047914
+    ],
+    "name": "web-browsing"
+  },
+  {
+    "color": "rgb(230, 0, 0)",
+    "data": [
+      1207534
+    ],
+    "name": "ssl"
+  },
+  {
+    "color": "rgb(184, 230, 0)",
+    "data": [
+      1257192
+    ],
+    "name": "netbios-ns"
+  },
+  {
+    "color": "rgb(0, 230, 92)",
+    "data": [
+      1257518
+    ],
+    "name": "netbios-dg"
+  },
+  {
+    "color": "rgb(0, 92, 230)",
+    "data": [
+      2095626
+    ],
+    "name": "google-base"
+  },
+  {
+    "color": "rgb(184, 0, 230)",
+    "data": [
+      6966900
+    ],
+    "name": "dns-base"
+  }
+]
